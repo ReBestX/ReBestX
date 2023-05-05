@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebestx&label=Profile%20views&color=0e75b6&style=flat" alt="rebestx" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 📫 How to reach me **rbx4business@gmail.com**
+- 📫 How to reach me [Email](mailto:rbx4business@gmail.com) :)
+- 💬 Ask Me About Anything I Am Happy To Help .
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
