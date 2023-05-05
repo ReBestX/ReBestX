@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebestx&label=Profile%20views&color=0e75b6&style=flat" alt="rebestx" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Tailwind**.
+- 🌱 I’m currently learning **JavaScript**.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 📫 How to reach me **rbx4business@gmail.com**
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
