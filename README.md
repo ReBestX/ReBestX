@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ayman Ismail</h1>
-<h3 align="center">A Software Enginner at <a href="https://en.up.edu.ps/">University of Palestine</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">A Software Enginner Student at <a href="https://en.up.edu.ps/">University of Palestine</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebestx&label=Profile%20views&color=0e75b6&style=flat" alt="rebestx" /> </p>
