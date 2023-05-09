@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Ayman Ismail</h1>
+<h1 align="center">Hi <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113" width="30px" height="30px">, I'm Ayman Ismail</h1>
 <h3 align="center">A Software Enginner Student at <a href="https://en.up.edu.ps/">University of Palestine</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebestx&label=Profile%20views&color=0e75b6&style=flat" alt="rebestx" /> </p>
 
@@ -9,6 +9,14 @@
 - 📫 How to reach me [Email](mailto:rbx4business@gmail.com) :)
 - 💬 Ask Me About Anything I Am Happy To Help .
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+<pre><code>
+class SoftwareDeveloper {
+  constructor(name , title , location) {
+    this.name = "Wesam Abutaima";
+    this.title = "Front-End Developer";
+    this.location= "Palestine-Gaza"
+}</code></pre>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aymanbismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymanbismail" height="30" width="40" /></a>
