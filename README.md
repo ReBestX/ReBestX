@@ -11,9 +11,9 @@
 
 [![Mail Badge](https://img.shields.io/badge/-rebestx@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:rebestx@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@ReBestX-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/rebestx)
-[![X Badge](https://img.shields.io/badge/-ReBestX-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/rebestx)
+[![X Badge](https://img.shields.io/badge/-@ReBestX-000000?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/rebestx)
+[![TikTok Badge](https://img.shields.io/badge/-@ReBestX-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rebest.x)
 [![LinkedIn Badge](https://img.shields.io/badge/-Ayman%20Ismail-0284c7?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymanbismail/)
-[![TikTok Badge](https://img.shields.io/badge/-ReBestX-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ReBest_X/)
 <br>
 [![](https://komarev.com/ghpvc/?username=ReBestX&color=blue&label=Profile%20Views)](https://github.com/ReBestX/ReBestX)
 [![](https://img.shields.io/github/followers/ReBestX?label=GitHub%20Followers)](https://github.com/ReBestX)
